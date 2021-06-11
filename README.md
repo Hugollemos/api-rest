@@ -1,2 +1,2 @@
-# api-res
-api_res básica 
+# api-rest
+api_rest básica 
